@@ -11,7 +11,7 @@ class Deck extends React.Component {
   render() {
     return (
 <section className="deck">
-           <header><h2>{this.props.deckContent.title}</h2></header>
+           <header><h2>{this.props.children}</h2></header>
     </section>
     );
   }
