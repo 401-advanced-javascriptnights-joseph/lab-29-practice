@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR]()
-* [travis](http://xyz.com)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-29-practice.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-29-practice))
 
 ### Modules
 #### `index.js` - entry point
