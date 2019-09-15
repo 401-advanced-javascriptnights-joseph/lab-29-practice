@@ -5,7 +5,7 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR]()
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-29-practice/pull/2)
 * [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-29-practice.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-29-practice))
 
 ### Modules
